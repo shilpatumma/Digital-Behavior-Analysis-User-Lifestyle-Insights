@@ -60,8 +60,8 @@ Using Python, the project performs **data cleaning, transformation, exploratory 
 
 ### 📊 Sample Visualizations
 
-![Heatmap](images/heatmap.png)
-![Dashboard](images/dashboard.png)
+![Heatmap](heatmap.png)
+![Dashboard](dashboard.png)
 
 ---
 
