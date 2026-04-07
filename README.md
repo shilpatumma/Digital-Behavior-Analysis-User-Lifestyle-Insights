@@ -58,6 +58,11 @@ Using Python, the project performs **data cleaning, transformation, exploratory 
 - Designed multi-visual layout (3x3 grid)
 - Applied dark theme for better visualization
 
+### 📊 Sample Visualizations
+
+![Heatmap](images/heatmap.png)
+![Dashboard](images/dashboard.png)
+
 ---
 
 ## 📈 Key Insights
